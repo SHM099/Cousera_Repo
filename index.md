@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages SHM
 
 You can use the [editor on GitHub](https://github.com/SHM099/Cousera_Repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
